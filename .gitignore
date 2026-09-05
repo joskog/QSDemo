@@ -1,0 +1,10 @@
+# files that don't get uploaded or shared
+*.env
+config/
+api_keys.txt
+
+data/raw/
+
+*.tmp
+Thumbs.db
+.DS_Store
